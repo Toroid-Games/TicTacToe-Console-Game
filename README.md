@@ -4,5 +4,5 @@
 Forked Repo of Tic-Tac-Toe. Original is here => https://github.com/MSHAHID1122/TicTacToe-Console-Game
 C++ version of Tic Tac Toe made for the Windows Console.
 I added player scores, alternating turns and easier inputs.
-Should rum in most versions of c++.
+Should run in most versions of c++.
 
